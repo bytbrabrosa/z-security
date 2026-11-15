@@ -1,0 +1,134 @@
+# Z+ SECURITY
+## PRIVACY POLICY
+
+**Effective Date:** November 15, 2026  
+**Last Updated:** November 15, 2026
+
+### 1. INTRODUCTION
+
+Welcome to Z+ Security ("we", "our", "us", or "Service").
+
+Z+ Security is a Discord security and moderation bot designed to help Discord server owners and administrators protect their communities through moderation tools, automated security features, and server management functionality.
+
+This Privacy Policy explains what information may be collected, how it may be used, how it may be stored, and what choices users have when interacting with Z+ Security.
+
+By using Z+ Security, you acknowledge that you have read this Privacy Policy.
+
+### 2. INFORMATION WE MAY COLLECT
+
+Depending on the features enabled and the Bot's actual implementation, Z+ Security may process the following information:
+
+**2.1 Discord User Information**
+- Discord User ID.
+- Discord Username and display name, where needed.
+- User-related moderation records.
+- Command interaction information.
+
+**2.2 Server Information**
+- Discord Server ID.
+- Server name, where required.
+- Channel IDs.
+- Role IDs.
+- Server configuration settings.
+
+**2.3 Moderation Information**
+- Moderation action records.
+- Warning records.
+- Mute or timeout records.
+- Ban or kick records, where applicable.
+- Security-related event information.
+
+**2.4 Technical Information**
+- Bot error reports.
+- Command execution status.
+- System logs.
+- Technical diagnostic information.
+
+We do not intentionally request Discord account passwords or personal login credentials.
+
+### 3. HOW WE USE INFORMATION
+
+Information processed by Z+ Security may be used for:
+
+- Providing security and moderation features.
+- Detecting suspicious server activity.
+- Preventing spam and unauthorized activity.
+- Managing verification systems.
+- Recording moderation events.
+- Maintaining server configurations.
+- Troubleshooting technical problems.
+- Improving Bot reliability and performance.
+- Protecting the Service against abuse.
+
+We aim to process only information reasonably necessary for the Bot's functionality.
+
+### 4. DATA STORAGE AND RETENTION
+
+Information may be stored in databases, configuration files, or technical logs depending on the Bot's implementation.
+
+Retention periods depend on the type of information and operational requirements.
+
+We aim to:
+- Avoid unnecessary data collection.
+- Retain information only as long as reasonably necessary.
+- Remove information when it is no longer needed, subject to applicable requirements.
+- Protect stored information against unauthorized access.
+
+**Important:** Actual storage locations, retention periods, and deletion procedures must be confirmed by the Z+ Security operators before publication.
+
+### 5. DATA SHARING
+
+Z+ Security does not intend to sell personal information.
+
+Information may be processed or shared when reasonably necessary for:
+
+- Operating the Bot.
+- Providing hosting and infrastructure services.
+- Maintaining technical functionality.
+- Addressing security incidents.
+- Complying with applicable legal obligations.
+
+We do not authorize the use of information for unrelated purposes.
+
+### 6. DISCORD PLATFORM
+
+Z+ Security operates through the Discord platform.
+
+Your use of Discord is independently governed by Discord's own policies and agreements.
+
+Discord may process information according to its Privacy Policy.
+
+We are not responsible for Discord's independent data processing practices.
+
+### 7. SECURITY MEASURES
+
+We aim to use reasonable technical and organizational measures to protect information.
+
+These measures may include:
+- Restricting access to configuration files.
+- Protecting Bot credentials.
+- Limiting administrative access.
+- Using secure hosting practices.
+- Monitoring technical errors.
+- Reviewing security-related incidents.
+
+However, no online service can guarantee absolute security.
+
+### 8. BOT TOKEN AND CREDENTIAL SECURITY
+
+Bot authentication credentials are confidential.
+
+Users and administrators must not:
+- Share Bot tokens publicly.
+- Upload private credentials to public repositories.
+- Expose confidential configuration files.
+- Provide Bot credentials to unauthorized individuals.
+
+The Z+ Security team should store credentials securely and restrict access to authorized operators.
+
+### 9. USER RIGHTS AND DATA REQUESTS
+
+Depending on applicable law, users may have rights to:
+
+- Request information about personal data processing.
+- Request access to applicable personal
