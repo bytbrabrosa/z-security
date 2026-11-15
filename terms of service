@@ -1,0 +1,198 @@
+# Z+ SECURITY
+## TERMS OF SERVICE
+
+**Effective Date:** November 15, 2026  
+**Last Updated:** November 15, 2026
+
+Welcome to Z+ Security ("Bot", "Service", "we", "our", or "us"). These Terms of Service ("Terms") govern your access to and use of the Z+ Security Discord Bot and its related features.
+
+By inviting, installing, configuring, or using Z+ Security, you agree to these Terms. If you do not agree, you must stop using the Service.
+
+---
+
+### 1. ACCEPTANCE OF TERMS
+
+By using Z+ Security, you confirm that:
+
+- You have read and understood these Terms.
+- You agree to follow Discord's Terms of Service and Community Guidelines.
+- You will use the Bot only for legitimate server administration and security purposes.
+- You have the necessary permissions to add and configure the Bot in a Discord server.
+- You will not use the Bot to violate applicable laws or the rights of others.
+
+### 2. ABOUT Z+ SECURITY
+
+Z+ Security is a Discord moderation and server security bot designed to help server owners and administrators manage and protect their communities.
+
+Depending on the features enabled, the Service may provide:
+
+- Anti-Raid Protection
+- Anti-Spam Protection
+- Anti-Link Filtering
+- Member Verification
+- Moderation Commands
+- Security Logs
+- Server Activity Monitoring
+- Automated Moderation
+- Role and Permission Management
+- Configuration and Administration Tools
+
+Features may change, be added, modified, or discontinued at any time.
+
+### 3. PERMISSIONS AND AUTHORIZATION
+
+When adding Z+ Security to a Discord server, the server owner or authorized administrator is responsible for granting appropriate permissions.
+
+You agree that:
+
+- You will only configure the Bot in servers where you have authorization.
+- You will not use permissions to interfere with another server.
+- You will assign administrative access responsibly.
+- You will review the permissions requested by the Bot.
+- You are responsible for actions performed by people you authorize to manage the Bot.
+
+The Bot should only be granted permissions necessary for its intended functionality.
+
+### 4. ACCEPTABLE USE POLICY
+
+You agree to use Z+ Security responsibly.
+
+You must not:
+
+- Use the Bot to harass or target individuals.
+- Use the Bot for unauthorized mass moderation.
+- Attempt to disrupt Discord servers or communities.
+- Use the Bot to distribute malicious links or harmful content.
+- Exploit vulnerabilities or attempt unauthorized access.
+- Abuse automated features.
+- Use the Bot for scams, fraud, or impersonation.
+- Circumvent security restrictions.
+- Violate Discord's platform policies.
+
+### 5. SERVER OWNER RESPONSIBILITIES
+
+Server owners and administrators are responsible for:
+
+- Maintaining their server's security.
+- Reviewing Bot permissions.
+- Managing administrator access.
+- Reviewing moderation actions.
+- Configuring protection settings appropriately.
+- Ensuring that the Bot is used according to these Terms.
+
+Z+ Security is intended to assist administrators and does not replace responsible human moderation.
+
+### 6. AUTOMATED MODERATION
+
+Some features may automatically detect suspicious activity and perform moderation actions according to configured rules.
+
+However:
+
+- Automated detection may produce incorrect results.
+- Legitimate users may occasionally be flagged.
+- Server administrators should review important moderation decisions.
+- We do not guarantee that every raid, spam message, or malicious activity will be detected.
+
+You are responsible for configuring automated moderation appropriately.
+
+### 7. DATA AND PRIVACY
+
+Z+ Security may process certain information required to operate its features.
+
+Depending on the implemented functionality, this may include:
+
+- Discord Server IDs.
+- Discord User IDs.
+- Channel and Role IDs.
+- Moderation configuration.
+- Security event records.
+- Bot command interactions.
+- Relevant moderation logs.
+
+We will only describe data collection, storage, sharing, and retention practices in accordance with our actual implementation and published Privacy Policy.
+
+We do not promise that information is never collected or stored unless that is verified.
+
+### 8. SERVICE AVAILABILITY
+
+We aim to keep Z+ Security available and functional.
+
+However, we do not guarantee:
+
+- 24/7 uninterrupted availability.
+- Error-free operation.
+- Compatibility with every Discord server configuration.
+- Permanent availability of every feature.
+- Protection against every possible security threat.
+
+Maintenance, technical problems, Discord API changes, and other circumstances may temporarily affect the Service.
+
+### 9. THIRD-PARTY SERVICES
+
+Z+ Security operates through Discord and may depend on third-party infrastructure and services.
+
+Your use of Discord is also subject to Discord's own policies and agreements.
+
+We are not responsible for outages or changes caused by third-party services outside our reasonable control.
+
+### 10. INTELLECTUAL PROPERTY
+
+The Z+ Security name, branding, original artwork, website content, and original software components belong to their respective owners.
+
+You may not:
+
+- Claim ownership of our original branding.
+- Redistribute proprietary components without permission.
+- Impersonate the official Z+ Security project.
+- Use our branding to mislead users.
+
+### 11. SUSPENSION AND TERMINATION
+
+We reserve the right to restrict or discontinue access to the Service where reasonably necessary, including in cases involving:
+
+- Abuse of the Service.
+- Violations of these Terms.
+- Security risks.
+- Unauthorized activity.
+- Technical or operational requirements.
+
+You may stop using the Bot at any time by removing it from your Discord server.
+
+### 12. DISCLAIMER OF WARRANTIES
+
+Z+ Security is provided on an "AS IS" and "AS AVAILABLE" basis, to the extent permitted by applicable law.
+
+We make no guarantees that the Service will prevent all security incidents, unauthorized activity, spam, raids, or moderation mistakes.
+
+### 13. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the operators of Z+ Security will not be liable for indirect, incidental, special, or consequential damages arising from the use or inability to use the Service.
+
+Nothing in these Terms excludes liability that cannot legally be excluded under applicable law.
+
+### 14. CHANGES TO THESE TERMS
+
+We may update these Terms when necessary.
+
+Updated Terms will be published at the official Terms of Service URL.
+
+Continued use of Z+ Security after changes become effective constitutes acceptance of the updated Terms, to the extent permitted by applicable law.
+
+### 15. GOVERNING LAW
+
+These Terms are subject to applicable laws.
+
+Any disputes will be handled in accordance with applicable legal requirements and jurisdiction.
+
+### 16. CONTACT AND SUPPORT
+
+For questions, concerns, or support regarding Z+ Security, contact the project team through its official support channels.
+
+**Project Name:** Z+ Security  
+**Service:** Discord Security Bot  
+
+---
+
+**END OF TERMS OF SERVICE**
+
+© 2026 Z+ Security. All rights reserved.
